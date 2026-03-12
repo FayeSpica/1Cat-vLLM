@@ -469,9 +469,6 @@ Again: **ignore the first warmup request** when judging throughput.
 
 - The original upstream project is **vLLM**.
 - This branch focuses on **SM70 AWQ support and V100-oriented runtime tuning**.
-- Development notes and machine-specific reproduction details are kept in:
-  - [RUN_V100_CUDA128.md](RUN_V100_CUDA128.md)
-  - [CLAUDE.md](CLAUDE.md)
 
 ## Acknowledgements
 
