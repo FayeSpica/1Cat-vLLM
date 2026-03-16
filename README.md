@@ -43,7 +43,7 @@ Preview (gallery):
 
 Scan the QR code below to join the WeChat group:
 
-![WeChat group QR code](effort/group.jpg)
+![WeChat group QR code](effort/group2.jpg)
 
 ## Validated stack
 
