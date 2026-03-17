@@ -79,8 +79,8 @@ class CompressedTensorsWNA16(CompressedTensorsScheme):
 
     @classmethod
     def get_min_capability(cls) -> int:
-        # Turing and up
-        return 75
+        # Pascal and up (Exllama kernel supports SM60+)
+        return 60
 
     def create_weights(
         self,
